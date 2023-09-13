@@ -1,0 +1,4 @@
+name = "ClimaRecursiveApply"
+uuid = "2d190581-1707-452a-b4d7-020deb7c7b25"
+authors = ["Climate Modeling Alliance"]
+version = "0.1.0"
